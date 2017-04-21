@@ -1,0 +1,17 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, "8.0"
+
+target 'MVVM_RAC_Demo' do
+
+pod "AFNetworking"
+pod "MJRefresh"
+pod 'ReactiveObjC'
+pod 'Masonry'
+pod 'IQKeyboardManager'
+pod 'SDWebImage'
+pod 'DZNEmptyDataSet'
+pod 'MMProgressHUD'
+pod 'RealReachability'
+pod 'YYKit'
+
+end
